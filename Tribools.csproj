@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>5</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>blowin.Tribools</Title>
+        <Authors>blowin</Authors>
+        <Description>Three-valued logic</Description>
+        <PackageProjectUrl>https://github.com/blowin/Tribools</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/blowin/Tribools</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>bool;logic</PackageTags>
+        <AssemblyName>blowin.Tribools</AssemblyName>
+    </PropertyGroup>
+
+</Project>
